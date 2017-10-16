@@ -1,0 +1,13 @@
+body {
+	padding: 0;
+	margin: 0;
+	background: #42413D;
+}
+
+header,
+footer,
+h1,
+h2,
+h3 {
+	color: #B2AFAC;
+}
