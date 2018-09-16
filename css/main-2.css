@@ -1,0 +1,91 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	padding: 0;
+	margin: 10px 150px;
+	background: #42413D;
+}
+
+h2 {
+	text-align: center;
+}
+
+p {
+	font-size: 25px;
+	padding: 20px;
+}
+
+header {
+	width: 100%;
+}
+
+footer {
+	width: 100%;
+	clear: both;
+	height: 100px;
+}
+
+ul {
+	list-style: none;
+	text-align: center;
+}
+
+li {
+	display: inline-block;
+	font-size: 20px;
+	font-weight: 900;
+	width: 100px;
+	padding: 40px;
+}
+
+div {
+	width: 100%;
+}
+
+a:link,
+a:visited {
+	text-decoration: none;
+	color: #959492;
+}
+
+a:hover {
+	color: #FFFFFF;
+}
+
+.main {
+	/*color: #B2AFAC;*/
+	color: #42413D;
+}
+
+.cityimg {
+	background-image: url("../images/dc-skyline-2.jpg");
+	width: 100%;
+	background-position: 35% 55%;
+	height: 250px;
+	opacity: 0.5;
+}
+/*Make sure to change this.*/
+
+
+.yellowbar {
+	background: #FFCE2B;
+	margin: 15px 0;
+}
+
+.myimg {
+	max-width: 50%;
+	border-radius: 50%;
+	display: block;
+	margin: auto;
+	padding: auto;
+}
+
+.half {
+	background: #959492;
+	width: 50%;
+	height: 450px; 
+	float: left;
+}
